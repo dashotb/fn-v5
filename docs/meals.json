@@ -1,0 +1,91 @@
+{
+  "m1": {
+    "name": "Frites Maison",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 2
+  },
+  "m2": {
+    "name": "Salade Cesar",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 5
+  },
+  "m3": {
+    "name": "Riz en Salade",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 5
+  },
+  "m4": {
+    "name": "5 Tenders",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 6
+  },
+  "m5": {
+    "name": "5 Wings",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 6
+  },
+  "m6": {
+    "name": "5 Nuggets",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 5
+  },
+  "m7":
+  {  
+    "name": "Burger Steak (125g)",
+    "description": "Un Burger avec un steak de 125g, Onions, Cornichons, pour les petits creux...",
+    "price": 6
+  },
+  "m8":
+  {
+    "name": "Burger Double Cheese",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 8
+  },
+  "m9":
+  {
+    "name": "Burger Chicken",
+    "description": "Un Burger avec du Poulet pané, Onions, Cornichons, pour les petits creux...",
+    "price": 7
+  },
+  "m10": {
+    "name": "Canette 33cl",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 2
+  },
+  "m11": {
+    "name": "Eau 50cl",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 1
+  },
+  "m12": {
+    "name": "Tiramisu",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 3
+  },
+  "m13": {
+    "name": "Tarte Daim",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 3
+  },
+  
+  "m14": {
+    "name": "Menu Burger ",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 10
+  },
+  "m15": {
+    "name": "Menu Double Cheese",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 12
+  },
+  "m16": {
+    "name": "Menu Chicken Burger",
+    "description": "Un Burger consistant, avec 2 steak, Fromage, Onions, Cornichons",
+    "price": 11
+  }
+
+
+
+
+}
+  
